@@ -9,8 +9,7 @@ This project retrieves the transcript of a YouTube video based on its URL and th
 1. Clone this project locally:
 
     ```bash
-    git clone https://github.com/KHRMNKY/HuggingFace_Models_and_Spaces.git
-    cd Youtube_Transcript_Summarizer
+    git clone https://github.com/KHRMNKY/Youtube_Transcript_Summarizer?tab=readme-ov-file.git
     ```
 
 2. Install the required packages:
@@ -55,7 +54,8 @@ To access the Hugging Face interface for this project, use the following link:
 
 
 
-https://github.com/KHRMNKY/HuggingFace_Models_and_Spaces/assets/83987220/933c1a66-cd63-4678-872c-ea8074fda8c5
+https://github.com/KHRMNKY/Youtube_Transcript_Summarizer/assets/83987220/c7bd3036-70fd-45df-b594-beac1b93879c
+
 
 
 
